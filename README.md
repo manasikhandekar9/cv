@@ -1,17 +1,15 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
-  <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
+  <a href="http://manasikhandekar9.github.io/cv">
+  <img src="./src/assets/light-logo.svg" alt="Manasi Khandekar" width="200"></a>
   <br>
-  Greg Sithole's Personal Website
+  Manasi Khandekar's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="http://manasikhandekar9.github.io/cv" target="_blank">Manasi Khandekar</a>.</h4>
 
 <br>
-
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
 
 ## How To Use
 
@@ -19,10 +17,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/manasikhandekar9/cv
 
 # Go into the repository
-$ cd gregsithole-react-portfolio
+$ cd cv
 
 # Install dependencies
 $ yarn install
