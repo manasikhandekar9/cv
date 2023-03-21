@@ -24,3 +24,5 @@ MIT
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant) -->
 # cv
+
+Deployed the resume website created using HTML, CSS, Js, React on Netlify.
