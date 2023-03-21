@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="http://manasikhandekar9.github.io/cv">
-  <img src="./src/assets/light-logo.svg" alt="Manasi Khandekar" width="200"></a>
+  <img src="./src/assets/M_light.svg" alt="Manasi Khandekar" width="200"></a>
   <br>
   Manasi Khandekar's Personal Website
   <br>
