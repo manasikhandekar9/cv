@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <a href="http://manasikhandekar9.github.io/cv">
   <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
   <br>
   Manasi Khandekar's Personal Website
